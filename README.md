@@ -1,5 +1,5 @@
 # markdown_converter
-convert markdown file to doc format.
+convert markdown file to microsoft doc format.
 
 ```
 pip3 install -r requirements.txt
