@@ -5,7 +5,7 @@ convert markdown file to microsoft doc format.
 pip3 install -r requirements.txt
 ```
 
-##Usage:
+## Usage:
 ```
 usage: mdtodoc.py [-h] -f FILE [-o OUTPUTFILE]
 
